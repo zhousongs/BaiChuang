@@ -1,0 +1,20 @@
+From cad40810dc56a75db4cccc0a7b05915efc4bb769 Mon Sep 17 00:00:00 2001
+From: zhousongs <33537641+zhousongs@users.noreply.github.com>
+Date: Fri, 15 Jun 2018 12:05:40 +0800
+Subject: [PATCH] android
+
+---
+ android | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 android
+
+diff --git a/android b/android
+deleted file mode 100644
+index b6ac91b..0000000
+--- a/android
++++ /dev/null
+@@ -1 +0,0 @@
+-存放Android代码
+-- 
+2.16.2.windows.1
+
